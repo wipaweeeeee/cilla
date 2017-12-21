@@ -1,0 +1,14 @@
+body { 
+	font-family: 'Space Mono', monospace; 
+	background: #fff;
+	color: #2824F7;
+}
+
+.content {
+	padding: 17% 10% 35%;
+}
+
+p.word {
+	font-size: 32px;
+	margin: 0;
+}
